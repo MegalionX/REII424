@@ -1,0 +1,33 @@
+******************************************************************************
+* 	File Name	:Comands.txt 
+*	Created By	:Hennie van Jaarsveld (MegalionX)
+*	Created Date	:11/08/2017
+*	Description	:REII424 Lab 1 Part 1 Comands Used
+******************************************************************************
+>>> Setting Up Git <<<
+
+git config --global user.name "MegalionX"
+git config --global user.email "megalion.nighthawk@gmail.com."
+git config --global core.editor "nano -w"
+
+>>> Setting Up Git <<<
+
+>>> Creating a Repository <<<
+
+mkdir planets
+cd planets
+//git init
+1>ls -a
+2>git status
+mkdir moons
+rm -rf moons.git
+
+>>> Creating a Repository <<<
+
+>>> Tracking Changes <<<
+
+nano mars.txt
+3>ls
+4>cat mars.txt
+
+>>> Tracking Changes <<<
